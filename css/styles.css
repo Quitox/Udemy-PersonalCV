@@ -4,6 +4,7 @@ body{
     margin: 0;
 }
 h1{
+    display: inline-block;
     margin: 150px auto 0 auto; 
     font-size: 365%;
     line-height: 2em;
@@ -65,7 +66,7 @@ hr{
     width: 10%;
     height: 5%;
     padding: 2%;
-    border-radius: 50%; 
+    border-radius: 5%; 
 }
 .profile p{
     display: block;
